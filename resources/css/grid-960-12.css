@@ -1,6 +1,5 @@
 /* @group GRID-960-12 */
-/* @group GRID */
-/* @end */.col-1 {
+.col-1 {
   width: 60px;
   margin: 0 10px;
   float: left;

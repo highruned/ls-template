@@ -13,7 +13,7 @@
 		<link rel="stylesheet" type="text/css" href="<?= root_url('/') ?>resources/css/grid-960-12.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="<?= root_url('/') ?>resources/css/main.css" media="screen" />
 	
-		<script type="text/javascript" src="resources/js/jquery-1.6.2.min.js"></script>
+		<script type="text/javascript" src="<?= root_url('/') ?>resources/js/jquery-1.6.2.min.js"></script>
 	
 		<?= include_resources() ?>
 		
